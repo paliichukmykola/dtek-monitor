@@ -1,0 +1,23 @@
+{
+  "name": "dtek-monitor",
+  "version": "1.0.0",
+  "description": "DTEK power outages monitor",
+  "main": "monitor.js",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "playwright": "^1.55.0"
+  },
+  "engines": {
+    "node": ">=20.19.0"
+  },
+  "keywords": [
+    "monitor",
+    "power",
+    "outages",
+    "bot",
+    "telegram",
+    "dtek"
+  ],
+  "author": "Bohdan Yatsenko",
+  "license": "MIT"
+}
